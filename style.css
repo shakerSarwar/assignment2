@@ -3,12 +3,11 @@
 }
 
 .girl-img img{
-    height: 600px;
-    overflow: hidden;
+    width: 600px;
+    height: auto;
 }
 
 .head-section{
-    height: 800px;
     background-color: #FFFBF0;
     overflow: hidden;
 }
@@ -45,7 +44,6 @@ border-radius: 10px;
 }
 
 .m-section1,.m-section2,.m-section3{
-    height: 600px;
     margin-top: 100px;
     overflow: hidden;
 }
