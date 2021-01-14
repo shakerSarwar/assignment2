@@ -1,0 +1,67 @@
+.logo-img img{
+    width: 300px;
+}
+
+.girl-img img{
+    height: 600px;
+    overflow: hidden;
+}
+
+.head-section{
+    height: 800px;
+    background-color: #FFFBF0;
+    overflow: hidden;
+}
+
+.bold-text1{
+    font-size: 3.5rem;
+    color: #FABE4C;
+}
+
+.bold-text2{
+    font-size: 3.5rem;
+    color: #363958;
+}
+
+.btn-buy-now{
+background-color: #95AF30;
+color: #FFFBF0;
+border-radius: 10px;
+}
+
+.women-img img{
+    width: 300px;
+    height:350px;
+    background-color:#F1F1F1;
+    border-radius: 30px;
+}
+.dollar{
+    color: #FABE4C;  
+}
+
+.card-title{
+    color: #363958;
+    font-size: 2rem;
+}
+
+.m-section1,.m-section2,.m-section3{
+    height: 600px;
+    margin-top: 100px;
+    overflow: hidden;
+}
+
+.xml-img img{
+ height: 400px;
+}
+
+.small-img img{
+height: 80px;
+}
+
+.last-heading{
+ color: #363958;;
+}
+
+.bonus-section{
+    min-height: 600px;
+}
